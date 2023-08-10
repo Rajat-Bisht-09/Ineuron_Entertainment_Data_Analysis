@@ -1,4 +1,4 @@
-# Ineuron Entertainment Data Analysis
+# Entertainment Data Analysis
 ## Ineuron Internship 
 
 
