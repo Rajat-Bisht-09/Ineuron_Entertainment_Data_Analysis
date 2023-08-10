@@ -17,7 +17,7 @@ sub-industries devoted to entertainment. Entertainment industry is used to descr
 mass media companies that control the distribution and manufacture of mass 
 media entertainment.</p>
 
-<h2>Dataset:</h2>
+<h2>Dataset</h2>
 Datasets are available in Google Drive. The link has been shared : 
 <a href = "https://drive.google.com/drive/folders/1sJm4vy-qfuk3CFgE_zMMPGVYFmoIg35n">
 Click Here</a><br>
