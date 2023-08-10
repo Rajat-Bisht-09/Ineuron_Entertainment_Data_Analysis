@@ -18,12 +18,12 @@ mass media companies that control the distribution and manufacture of mass
 media entertainment.</p>
 
 <h2>Dataset:</h2>
-Datasets are available in Google Drive. The link has been shared below:<br>
+Datasets are available in Google Drive. The link has been shared : 
 <a href = "https://drive.google.com/drive/folders/1sJm4vy-qfuk3CFgE_zMMPGVYFmoIg35n">
 Click Here</a><br>
 
 <h2>Data Visualization</h2>
-Click Here:      
+Click Here :      
 <a href = "https://public.tableau.com/views/EntertainmentDataAnalysis/DataAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link">
 To the Dashboard
 </a>
