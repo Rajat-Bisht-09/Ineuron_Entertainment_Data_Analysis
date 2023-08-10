@@ -1,6 +1,14 @@
 # Ineuron Entertainment Data Analysis
 ## Ineuron Internship 
 
+### *Project Title: Entertainer Data Analysis*
+
+### *Technologies: Business Intelligence*
+
+### *Domain: Film and Entertainment*
+
+
+
 <!DOCTYPE html>
 <html lang = "en">
   <body>
