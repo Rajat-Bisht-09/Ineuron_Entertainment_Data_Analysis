@@ -20,10 +20,9 @@ media entertainment.</p>
 <h2>Dataset:</h2>
 Datasets are available in Google Drive. The link has been shared below:<br>
 <a href = "https://drive.google.com/drive/folders/1sJm4vyqfuk3CFgE_zMMPGVYFmoIg35n?usp=sharin">
-Click Here</a>
+Click Here</a><br>
 
-
-
+<h2>Data Visualization</h2>
 Click Here:      
 <a href = "https://public.tableau.com/views/EntertainmentDataAnalysis/DataAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link">
 To the Dashboard
