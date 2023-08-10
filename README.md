@@ -1,2 +1,2 @@
-# Ineuron_Entertainment_Data_Analysis
-Ineuron Internship Data Analytics
+# Ineuron Entertainment Data Analysis
+## Ineuron Internship 
