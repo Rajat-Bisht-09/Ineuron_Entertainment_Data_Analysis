@@ -3,7 +3,7 @@
 
 <!DOCTYPE html>
 <html lang = "en">
-<body>
-  "Hello"
-</body>
+  <body>
+    "Hello"
+  </body>
 </html>
