@@ -5,8 +5,8 @@
 
 <!DOCTYPE html>
 <html lang = "en">
-  <body>
-    <h3>Project Title: Entertainer Data Analysis</h3>
+<body>
+    <h3 id = "geeks">Project Title: Entertainer Data Analysis</h3>
     <h3>Technologies: Business Intelligence</h3>
     <h3>Domain: Film and Entertainment</h3>
     <h2>Problem Statement:</h2>
@@ -26,6 +26,8 @@ media entertainment.
 Problem Statement
 
       
-https://public.tableau.com/javascripts/api/viz_v1.js
+<a href = "https://public.tableau.com/javascripts/api/viz_v1.js">
+Click to view Dashboard
+</a>
   </body>
 </html>
