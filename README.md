@@ -28,7 +28,7 @@ media entertainment.</p>
 
 <h2>Dataset</h2>
 Datasets are available in Google Drive. The link has been shared : 
-<a href = "https://drive.google.com/drive/folders/1sJm4vy-qfuk3CFgE_zMMPGVYFmoIg35n">
+<a href = "https://drive.google.com/drive/folders/1sJm4vy-qfuk3CFgE_zMMPGVYFmoIg35n" target = "_blank">
 Click Here</a><br>
 
 <h2>Data Visualization</h2>
