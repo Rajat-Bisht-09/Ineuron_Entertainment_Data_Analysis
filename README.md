@@ -16,6 +16,15 @@ news, music, newspapers, magazines, and books. <br>Entertainment industry is a g
 sub-industries devoted to entertainment. Entertainment industry is used to describe the 
 mass media companies that control the distribution and manufacture of mass 
 media entertainment.</p>
+<p><h4>Task #1 - In a word document write the process and data added to the current dataset.</h4></p> 
+<p1>In addition, mention the theme on which you will be creating the dashboard.</p1>
+<p><h4>Task #2 - You can add your data as per your convenience.</h4></p>
+<p><h4>Task #3 – Do the data preparation part.</h4></p>
+<p><h4>Task #4 – Build the dashboards</h4></p>
+<p><h4>Task #5 – Build a Storyline</h4></p>
+
+<p><h5>Approaches:</h5></p>
+<p>Python, R, Tableau, Power BI or you can use any tools and techniques as per convenience</p>
 
 <h2>Dataset</h2>
 Datasets are available in Google Drive. The link has been shared : 
