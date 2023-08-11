@@ -6,7 +6,7 @@
     <h2>Ineuron Internship</h2>
     <h3>Project Title: Entertainer Data Analysis</h3>
     <h3>Technologies: Business Intelligence</h3>
-    <h3>Domain: Film and Entertainment</h3><br>
+    <h3>Domain: Film and Entertainment</h3>
     <h2>Problem Statement:</h2>
 <p>Normal life can be stressful, and people need to relax. Being entertained by others 
 is a wonderful way to take some time out of life. 
@@ -36,5 +36,11 @@ Click Here :
 <a href = "https://public.tableau.com/views/EntertainmentDataAnalysis/DataAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link">
 To the Dashboard
 </a>
+<h2>Project Report</h2>
+Click Here : <a href = ""></a>
+<h2>Project Demo Video</h2>
+Click Here : <a href = ""></a>
+<h2>Project LinkedIn Post</h2>
+Click Here : <a href = ""></a>
   </body>
 </html>
