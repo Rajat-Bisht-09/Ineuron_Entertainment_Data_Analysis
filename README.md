@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang = "en">
 <body>
-    <h1>Entertainment Data Analysis</h1>
+    <h1>Entertainer Data Analysis</h1>
     <h2>Ineuron Internship</h2>
     <h3>Project Title: Entertainer Data Analysis</h3>
     <h3>Technologies: Business Intelligence</h3>
