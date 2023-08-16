@@ -32,7 +32,7 @@ Datasets are available in Google Drive. The link has been shared :
 
 <h2>Data Visualization</h2>
 Click Here :      
-<a href = "https://public.tableau.com/views/EntertainerDataAnalysis_16921612185770/DataAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link">To the Dashboard</a>
+<a href = "https://public.tableau.com/shared/XZ8W9FRMC?:display_count=n&:origin=viz_share_link">To the Dashboard</a>
 <h2>Project Report</h2>
 Click Here : <a href = ""></a>
 <h2>Project Demo Video</h2>
