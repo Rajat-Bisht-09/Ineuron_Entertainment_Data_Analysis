@@ -34,10 +34,15 @@ Datasets are available in Google Drive. The link has been shared :
 Click Here :      
 <a href = "https://public.tableau.com/shared/XZ8W9FRMC?:display_count=n&:origin=viz_share_link">To the Dashboard</a>
 <h2>Project Report</h2>
-Click Here : <a href = "https://docs.google.com/presentation/d/13tPQ9uHoaQYzH6uq_e49HG1UCh_WOHaW/edit?usp=drive_link&ouid=103790596601385413985&rtpof=true&sd=true">Detailed Report</a>
+1. <a href="">High Level Document</a><br>
+2. <a href="">Low Level Document</a><br>
+3. <a href="">Architecture</a><br>
+4. <a href="">Wireframe Documentation</a><br>
+5. <a href = "https://docs.google.com/presentation/d/13tPQ9uHoaQYzH6uq_e49HG1UCh_WOHaW/edit?usp=drive_link&ouid=103790596601385413985&rtpof=true&sd=true">Detailed Project Report</a>
 <h2>Project Demo Video</h2>
 Click Here : <a href = "https://youtu.be/x8VApNmv4Qw?si=axs8S_4N2Eozrq1U">Follow Me</a>
 <h2>Project LinkedIn Post</h2>
 Click Here : <a href = ""></a>
+
   </body>
 </html>
