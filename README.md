@@ -42,7 +42,7 @@ Click Here :
 <h2>Project Demo Video</h2>
 Click Here : <a href = "https://youtu.be/x8VApNmv4Qw?si=axs8S_4N2Eozrq1U">Follow Me</a>
 <h2>Project LinkedIn Post</h2>
-Click Here : <a href = "https://www.linkedin.com/feed/update/urn:li:activity:7101522957176365056/"></a>
+Click Here : <a href = "https://www.linkedin.com/feed/update/urn:li:activity:7101522957176365056/">To the Post</a>
 
   </body>
 </html>
