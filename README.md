@@ -36,7 +36,7 @@ Click Here :
 <h2>Project Report</h2>
 1. <a href="">High Level Document</a><br>
 2. <a href="">Low Level Document</a><br>
-3. <a href="">Architecture</a><br>
+3. <a href="https://drive.google.com/file/d/12llymNfoD22uuoG7yaQW_0zL9czN0Q77/view?usp=drive_link">Architecture Design</a><br>
 4. <a href="">Wireframe Documentation</a><br>
 5. <a href = "https://docs.google.com/presentation/d/13tPQ9uHoaQYzH6uq_e49HG1UCh_WOHaW/edit?usp=drive_link&ouid=103790596601385413985&rtpof=true&sd=true">Detailed Project Report</a>
 <h2>Project Demo Video</h2>
