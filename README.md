@@ -34,10 +34,10 @@ Datasets are available in Google Drive. The link has been shared :
 Click Here :      
 <a href = "https://public.tableau.com/shared/XZ8W9FRMC?:display_count=n&:origin=viz_share_link">To the Dashboard</a>
 <h2>Project Report</h2>
-1. <a href="">High Level Document</a><br>
-2. <a href="">Low Level Document</a><br>
+1. <a href="https://drive.google.com/file/d/1Djb9np4sxtgnKI81gTcyiJzuMgfeKZ7y/view?usp=drive_link">High Level Document</a><br>
+2. <a href="https://drive.google.com/file/d/1cDwWYDzN9Vbm5D1YGPB1obEsbwf1xYa9/view?usp=drive_link">Low Level Document</a><br>
 3. <a href="https://drive.google.com/file/d/12llymNfoD22uuoG7yaQW_0zL9czN0Q77/view?usp=drive_link">Architecture Design</a><br>
-4. <a href="">Wireframe Documentation</a><br>
+4. <a href="https://drive.google.com/file/d/10j68Inb78tRjtbr_0mCPoq9aXSRcf031/view?usp=drive_link">Wireframe Documentation</a><br>
 5. <a href = "https://docs.google.com/presentation/d/13tPQ9uHoaQYzH6uq_e49HG1UCh_WOHaW/edit?usp=drive_link&ouid=103790596601385413985&rtpof=true&sd=true">Detailed Project Report</a>
 <h2>Project Demo Video</h2>
 Click Here : <a href = "https://youtu.be/x8VApNmv4Qw?si=axs8S_4N2Eozrq1U">Follow Me</a>
