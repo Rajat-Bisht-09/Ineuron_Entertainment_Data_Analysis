@@ -32,7 +32,7 @@ Datasets are available in Google Drive. The link has been shared :
 
 <h2>Data Visualization</h2>
 Click Here :      
-<a href = "https://public.tableau.com/shared/XZ8W9FRMC?:display_count=n&:origin=viz_share_link">To the Dashboard</a>
+<a href = "https://tinyurl.com/2bcoz3e2">To the Dashboard</a>
 <h2>Project Report</h2>
 1. <a href="https://drive.google.com/file/d/1Djb9np4sxtgnKI81gTcyiJzuMgfeKZ7y/view?usp=drive_link">High Level Document</a><br>
 2. <a href="https://drive.google.com/file/d/1cDwWYDzN9Vbm5D1YGPB1obEsbwf1xYa9/view?usp=drive_link">Low Level Document</a><br>
